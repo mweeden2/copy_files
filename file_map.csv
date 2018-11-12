@@ -1,0 +1,3 @@
+filename,path (and filename) to copy to
+example.txt,new/directory/and/filename.txt
+example2.txt,filename2.txt
